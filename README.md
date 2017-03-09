@@ -15,7 +15,10 @@ td { valign:top; }
 </td>
 <td> ==> </td>
 <td valign="top">Browser-ready JavaScript
-<ul><li>demo/browser_bundle.js</li></ul>
+<ul>
+<li>demo/main.js</li>
+<li>demo/vendor.js</li>
+</ul>
 </td>
 </tr>
 </table>
