@@ -72,6 +72,7 @@ d3-demo
 │   ├── main.js
 │   └── vendor.js
 ├── node_modules
+├── proj_config.js
 ├── webpack.config.js
 ```
 
@@ -113,11 +114,11 @@ chart_obj.draw('el_chart');
 <html>
 <head>
     <title>d3 demo ES6 webpack 2 </title>
-    <script src='vendor.js'></script>
-    <script src='main.js'></script>    
 </head>
 <body>
     <div id='el_chart'></div>
+    <script src='vendor.js'></script>
+    <script src='main.js'></script>        
 </body>
 </html>
 ```
