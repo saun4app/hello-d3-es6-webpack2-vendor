@@ -1,10 +1,6 @@
 # hello-d3-es6-webpack2-vendor
 `hello-d3-es6-webpack2-vendor` shows an example of using `webpack 2` to create a browser ready JavaScript files (`main.js`, `vendor.js`) from a ES6 class.  
 
-<style>
-td { valign:top; }
-</style>
-
 <table>
 <tr>
 <td valign="top">ES6 Code
